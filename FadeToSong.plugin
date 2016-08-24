@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=FadeToSong
+IAge=2
+Depends=rb
+Name=Fade to next song
+Description=Adds an option to fade to the next song to the right click context menu.
+Authors=Pedro Guridi <pedro.guridi@gmail.com>
+Copyright=Copyright © 2016 Pedro Guridi
+Website=https://github.com/pguridi
